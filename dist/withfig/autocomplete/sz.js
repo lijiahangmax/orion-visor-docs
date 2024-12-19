@@ -1,1 +1,0 @@
-var t={name:"sz",description:"sz",args:{name:"file",description:"files",template:"filepaths"}},e=t;export{e as default};
