@@ -1,4 +1,4 @@
 {
-  "tagName": "v2.2.1",
-  "body": "* \uD83D\uDE80 升级 `orion-kit` 到 `2.0.1`\n* \uD83D\uDC1E 修复 计划任务创建后状态为禁用却仍然自动执行的问题\n* \uD83D\uDD28 修改 前端代码结构 调整语义"
+  "tagName": "v2.2.2",
+  "body": "* \uD83D\uDC33 修改 Docker 命名空间改为 `lijiahangmax -> orionsec`\n* \uD83D\uDC1E 修复 菜单停用后管理员角色依然可操作的问题\n* \uD83D\uDC1E 修复 普通用户无法创建主机分组的问题\n* \uD83C\uDF08 添加 新用户需要修改密码\n* \uD83C\uDF08 添加 主机系统类型\n* \uD83C\uDF08 添加 批量上传添加错误信息\n* \uD83C\uDF08 添加 定时任务添加执行人, 使用用户主机配置\n* \uD83C\uDF08 添加 终端底部命令编辑器\n* \uD83D\uDD28 去除 终端命令输入框\n* \uD83D\uDD28 优化 批量执行使用用户主机配置\n* \uD83D\uDD28 优化 批量上传使用用户主机配置\n* \uD83D\uDD28 优化 优化前端打包配置\n* \uD83D\uDD28 优化 优化前端路由配置\n* \uD83D\uDD28 优化 修改密码逻辑\n* \uD83D\uDD28 优化 主机配置获取逻辑\n* \uD83D\uDD28 修改 mysql 字符排序规则"
 }
